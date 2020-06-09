@@ -1,0 +1,62 @@
+sudo mount -t vboxsf share /mnt/share  手动挂载
+https://www.cnblogs.com/liuxiaoyang/p/8110069.html
+https://www.cnblogs.com/fan-0802-WHU/p/10961279.html
+https://www.cnblogs.com/TianFang/p/4937779.html（C++与CLI）
+浙江省诸暨市枫桥镇择树下1150号，浙江合和机电有限公司，陈剑飞收电话13858666633
+https://www.cnblogs.com/codingmengmeng/p/5865510.html
+github 密码zx0316ZX
+https://www.cnblogs.com/1996V/p/9037603.html
+.net
+https://www.cnblogs.com/qianqiannian/p/6040765.html
+引用与指针
+http://c.biancheng.net/view/2264.html
+C++
+https://blog.csdn.net/baidu_38760069/article/details/79828384
+结构体作为函数参数进行传递
+https://blog.csdn.net/mars_xiaolei/article/details/100556476
+OPENCV获取VID PID
+https://blog.csdn.net/fengbingchun/article/details/73521630
+互斥锁 mutex
+https://blog.csdn.net/gukesdo/article/details/6817030
+C++编写lib库
+https://www.runoob.com/cplusplus/cpp-overloading.html
+C++重载
+https://www.zhihu.com/question/22744854?sort=created
+github
+https://www.jianshu.com/p/f06b8f77bc34
+vcpkg
+https://www.jianshu.com/p/13d356e76659
+github
+http://www.manongjc.com/article/113863.html
+配置vcpkg以及NUGET
+https://geeeeeeeeek.github.io/git-recipes/
+git的详细用法中文
+dumpbin /exports “C:\Windows\System32\user32.dll”
+查看DLL的API
+https://www.cnblogs.com/lonelamb/p/10811499.html
+目标
+2020年学习计划：熟读C++primer,熟悉TCP\IP，熟悉opencv绝大多数主要算法，掌握WPF，了解windows核心编程
+https://www.cnblogs.com/xiangtingshen/p/10980055.html
+extern C相关
+https://blog.csdn.net/weixin_42743471/article/details/84942044
+C++新手项目
+make LogTest/LogTest
+http://www.cppfans.com/cbknowledge/skills/strings/charencoding.asp
+字符编码相关理论
+https://blog.csdn.net/xdgs_2005/article/details/44249881
+线程安全
+https://www.cnblogs.com/zhanglibra/p/4451015.html
+sprintf
+https://blog.csdn.net/wishchin/article/details/11900961
+boost filesystem
+https://blog.csdn.net/luansj/article/details/97272672
+linux 常用命令合集
+rsync * glory@192.168.137.220:/home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/Simulation/Debug/SDMemory/Setting/ -avzz
+./test.sh
+sudo chmod +x test.sh 加权限
+http://www.seotest.cn/jishu/64672.html
+convert toint 和int.prase的区别
+https://pypi.org/project/paho-mqtt/   (python mqtt_server.py)
+python create mqtt_server
+https://blog.csdn.net/bjweimengshu/article/details/79214572
+TCP/IP 详解
