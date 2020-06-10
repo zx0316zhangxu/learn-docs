@@ -1,0 +1,28 @@
+glory@kubuntu:/opt/test$ source paho-mqtt/bin/activate
+(paho-mqtt) glory@kubuntu:/opt/test$ python mqtt_server.py 
+(启动mqtt服务器)
+
+netstat -aon 查看端口号占用情况
+sudo /etc/init.d/vsftpd start 启动ftp 服务器
+sudo vi /etc/vsftpd.conf 修改ftp的配置文件
+service --status-all 查看linux 服务
+tasklist|findstr “<PID号>” 查看当前PID对应的是哪个进程
+export LD_LIBRARY_PATH=/opt/x86/boost_1_71_0/lib:/opt/x86/openssl-1.0.0g/lib:/opt/x86/opencv-3.4.10/lib:/FlashDisk/Apl
+taskset --cpu-list 0 mono Sorter.Main.exe 在linux上启动点钞软件
+rsync * glory@192.168.137.220:/home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/Simulation/Debug -avzz
+netstat -tunlp
+ftpuser 123456
+lsof -i linux查看端口占用
+
+
+
+
+
+
+
+
+
+
+./FlashDisk/Apl/Schema/schema_DeviceStatusUpdated_event.json
+
+                 543.978000                                                                                                     130                                                                                                                     544108                                                                                                                  success!                                                                                                     
