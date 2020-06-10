@@ -1,0 +1,9 @@
+D:\FileSystem\FSPCheckerCSharp\bin\Release\FSPCheckerCSharp.exe
+D:\FileSystem\FSPCheckerCSharp\bin\Release\FSPCheckerCSharp.pdb
+D:\FileSystem\FSPCheckerCSharp\bin\Release\System.Data.SQLite.dll
+D:\FileSystem\FSPCheckerCSharp\obj\Release\ResolveAssemblyReference.cache
+D:\FileSystem\FSPCheckerCSharp\obj\Release\FSPCheckerCSharp.exe
+D:\FileSystem\FSPCheckerCSharp\obj\Release\FSPCheckerCSharp.pdb
+D:\FileSystem\UHS (ARMv4I)\Release\FSPCheckerCSharp.exe
+D:\FileSystem\UHS (ARMv4I)\Release\FSPCheckerCSharp.pdb
+D:\FileSystem\UHS (ARMv4I)\Release\FSPCheckerCSharp.exe.config
