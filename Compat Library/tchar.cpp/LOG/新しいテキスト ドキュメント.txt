@@ -1,0 +1,12 @@
+[NOAH]/home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/test_tchar_cpp/main.cpp::tchar_cpp__stprintf_s_01::12::UNICODE=TRUE; [START]
+[2020-04-13 16:09:49.002611] [0x00007fb7f2932500] [debug]   /home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/Compat/debugapi.cpp OutputDebugStringW 29 :_stprintf_s(gr, sizeof(gr) / sizeof(gr[0]), _T("Gr%02d"), 2);
+[2020-04-13 16:09:49.002677] [0x00007fb7f2932500] [debug]   /home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/Compat/debugapi.cpp OutputDebugStringW 29 :Gr02
+[NOAH]/home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/test_tchar_cpp/main.cpp::tchar_cpp__stprintf_s_01::18::UNICODE=TRUE; [END]
+[NOAH]/home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/test_tchar_cpp/main.cpp::tchar_cpp__stprintf_s_02::26::UNICODE=TRUE; [START]
+[2020-04-13 16:09:49.002768] [0x00007fb7f2932500] [debug]   /home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/Compat/debugapi.cpp OutputDebugStringW 29 :_stprintf_s(gr, sizeof(gr) / sizeof(gr[0]), _T("Gr%02x"), 11);
+[2020-04-13 16:09:49.002808] [0x00007fb7f2932500] [debug]   /home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/Compat/debugapi.cpp OutputDebugStringW 29 :Gr0b
+[NOAH]/home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/test_tchar_cpp/main.cpp::tchar_cpp__stprintf_s_02::32::UNICODE=TRUE; [END]
+[NOAH]/home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/test_tchar_cpp/main.cpp::tchar_cpp__stprintf_s_03::41::UNICODE=TRUE; [START]
+[2020-04-13 16:09:49.002880] [0x00007fb7f2932500] [debug]   /home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/Compat/debugapi.cpp OutputDebugStringW 29 :_stprintf_s(gr, sizeof(gr) / sizeof(gr[0]), _T("Gr%08X"), 11);
+[2020-04-13 16:09:49.002912] [0x00007fb7f2932500] [debug]   /home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/Compat/debugapi.cpp OutputDebugStringW 29 :Gr0000000B
+[NOAH]/home/glory/UWF_Linux_Src_Branch/UWF_Simulator/Linux/CompatTest/test_tchar_cpp/main.cpp::tchar_cpp__stprintf_s_03::47::UNICODE=TRUE; [END]
